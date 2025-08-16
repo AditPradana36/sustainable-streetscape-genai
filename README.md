@@ -1,4 +1,4 @@
-<img width="640" height="640" alt="id_013_context" src="https://github.com/user-attachments/assets/5004c82d-3bb7-41bf-ad27-7e74c0830bdc" /># 🌍 Sustainable Streetscape with Generative AI
+# 🌍 Sustainable Streetscape with Generative AI
 
 This repository accompanies the study **"AI-Generated Sustainable Streetscapes: Evaluating Prompting Strategies with Street View Imagery"**.  
 It documents the dataset, experimental design, and prompting strategies used to explore how generative AI interprets and visualizes sustainability in urban streetscapes.  
@@ -44,7 +44,7 @@ Below is an example comparison between the original SVI and the AI-generated out
 
 | Raw SVI | With Context Prompt | Without Context Prompt |  
 |---------|---------------------|-------------------------|  
-| ![Raw SVI](![id_013](https://github.com/user-attachments/assets/1df77718-68b5-4327-99a9-f408bc965265)
+| ![Raw SVI](![id_013](https://github.com/user-attachments/assets/5acf67d1-bc09-4614-808e-96617d7f4ce6))
 ) | ![Context](<img width="640" height="640" alt="id_013_context" src="https://github.com/user-attachments/assets/0ceb6773-533f-4161-aada-33565876113f" />
 ) | ![Noncontext](<img width="640" height="640" alt="id_013_noncontext" src="https://github.com/user-attachments/assets/bf02b8d8-df57-425b-ab7e-aa2b445ecf11" />
 ) |  
