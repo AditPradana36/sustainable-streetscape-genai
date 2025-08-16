@@ -54,3 +54,11 @@ Below is an example comparison between the original SVI and the AI-generated out
 This repository is meant to **share datasets and methods** used for experimenting with generative AI in urban sustainability research.  
 By releasing both the **raw street-view baselines** and the **prompting strategies**, we hope to provide a foundation for further exploration of how AI models
 
+---
+
+## 📄 Copyright and License  
+
+All Street View images are sourced from **Google Street View** and are subject to Google’s [Terms of Service](https://www.google.com/help/terms_maps/).  
+The AI-generated images are produced solely for **academic research and non-commercial purposes** in the context of this study.  
+
+© 2025 Mohammad Raditia Pradana. All rights reserved.  
