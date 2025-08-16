@@ -44,7 +44,8 @@ Below is an example comparison between the original SVI and the AI-generated out
 
 | Raw SVI | With Context Prompt | Without Context Prompt |  
 |---------|---------------------|-------------------------|  
-| ![Raw SVI](![id_013](https://github.com/user-attachments/assets/5acf67d1-bc09-4614-808e-96617d7f4ce6)) | ![Context](<img width="640" height="640" alt="id_013_context" src="https://github.com/user-attachments/assets/0ceb6773-533f-4161-aada-33565876113f" />) | ![Noncontext](<img width="640" height="640" alt="id_013_noncontext" src="https://github.com/user-attachments/assets/bf02b8d8-df57-425b-ab7e-aa2b445ecf11" />) |  
+| ![Raw SVI](https://github.com/user-attachments/assets/5acf67d1-bc09-4614-808e-96617d7f4ce6) | ![Context](https://github.com/user-attachments/assets/0ceb6773-533f-4161-aada-33565876113f) | ![Noncontext](https://github.com/user-attachments/assets/bf02b8d8-df57-425b-ab7e-aa2b445ecf11) |  
+
 
 ---
 
