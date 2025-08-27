@@ -1,6 +1,6 @@
 # 🌍 Sustainable Streetscape with Generative AI
 
-This repository accompanies the study **"Exploring the ambiguity of urban sustainable streetscapes: object-level trade-offs in contextual vs. generic GPT-4o prompting"**.  
+This repository accompanies the study **"Unpacking the ambiguity of ‘sustainable’ streetscapes through contextual vs. generic GPT-4o prompting"**.  
 It documents the dataset, experimental design, and prompting strategies used to explore how generative AI interprets and visualizes sustainability in urban streetscapes.  
 
 ---
